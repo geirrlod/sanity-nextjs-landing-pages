@@ -13,6 +13,11 @@ export default {
       type: 'string',
       title: 'Subheading',
     },
+     {
+      name: 'En ekstra subtitle',
+      type: 'string',
+      title: 'SubheadingBareTull',
+    },
     {
       name: 'actionUrl',
       type: 'url',
