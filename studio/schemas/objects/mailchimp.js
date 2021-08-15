@@ -14,9 +14,9 @@ export default {
       title: 'Subheading',
     },
      {
-      name: 'En ekstra subtitle',
+      name: 'SubheadingBareTull',
       type: 'string',
-      title: 'SubheadingBareTull',
+      title: 'En ekstra subtitle',
     },
     {
       name: 'actionUrl',
